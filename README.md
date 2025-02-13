@@ -35,8 +35,8 @@ python calculator.py
 
 ## Screenshot
 
-![Calculator UI](![image](https://github.com/user-attachments/assets/7734219d-6801-424a-a08a-89472629c4be)
-)
+(https://github.com/user-attachments/assets/ac253ef9-6540-45ab-be3a-66b80db79cb5)
+
 
 ## License
 
